@@ -80,6 +80,8 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
+![Screenshot 2024-10-04 154205](https://github.com/user-attachments/assets/8a82af28-8403-4782-b150-444f25a6e98a)
+
 
 ## Fig 4: cds.lib file Creation
 
@@ -88,7 +90,8 @@ Click the cds.lib file and save the file by clicking on Save option
 	Select “Don’t include any libraries (verilog design)” from “New cds.lib file” and click on “OK” as in below figure
 
 	We are simulating verilog design without using any libraries
-![WhatsApp Image 2024-10-04 at 15 06 52_7a063292](https://github.com/user-attachments/assets/a8fddfa9-b7c4-476f-a811-6aad5d64ba82)
+![WhatsApp Image 2024-10-04 at 15 06 53_e7ded583](https://github.com/user-attachments/assets/bbd9815d-7ec6-45c6-a3ce-b2fd53454d17)
+
 
 
 ## Fig 5: Selection of Don’t include any libraries
@@ -106,7 +109,9 @@ Click the cds.lib file and save the file by clicking on Save option
 ## Fig 6: Nclaunch Window
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
-![WhatsApp Image 2024-10-04 at 15 06 53_50d009a8](https://github.com/user-attachments/assets/2a4a130a-114c-4345-9ebb-cc86bdf094e3)
+![Screenshot 2024-10-04 154231](https://github.com/user-attachments/assets/8bee67e5-9396-4f89-be2a-4f3b5280cd29)
+
+
 
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
