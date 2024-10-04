@@ -88,6 +88,8 @@ Click the cds.lib file and save the file by clicking on Save option
 	Select “Don’t include any libraries (verilog design)” from “New cds.lib file” and click on “OK” as in below figure
 
 	We are simulating verilog design without using any libraries
+![WhatsApp Image 2024-10-04 at 15 06 52_7a063292](https://github.com/user-attachments/assets/a8fddfa9-b7c4-476f-a811-6aad5d64ba82)
+
 
 ## Fig 5: Selection of Don’t include any libraries
 
@@ -98,10 +100,14 @@ Click the cds.lib file and save the file by clicking on Save option
 	Left side you can see the HDL files. Right side of the window has worklib and snapshots directories listed.
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
+![image](https://github.com/user-attachments/assets/e7470637-c2ab-44ae-bb31-625c338f6f53)
+
 
 ## Fig 6: Nclaunch Window
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
+![WhatsApp Image 2024-10-04 at 15 06 53_50d009a8](https://github.com/user-attachments/assets/2a4a130a-114c-4345-9ebb-cc86bdf094e3)
+
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
