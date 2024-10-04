@@ -131,6 +131,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 	The cds.lib file is an ASCII text file. It defines which libraries are accessible and where they are located.
 It contains statements that map logical library names to their physical directory paths. For this Design, you will define a library called “worklib”
+![WhatsApp Image 2024-10-04 at 15 06 52_91d1297d](https://github.com/user-attachments/assets/9d650824-2a2e-409f-ba71-8a01ec2244c1)
+
 
 ## Step 2: Elaboration:– To check the port connections in hierarchical design 
 
@@ -153,6 +155,8 @@ It contains statements that map logical library names to their physical director
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
 
 ## Fig 8: Elaboration Launch Option
+![WhatsApp Image 2024-10-04 at 15 06 52_4d53d39a](https://github.com/user-attachments/assets/09e8115d-2609-496b-a544-7b1774e04f92)
+
 
 ### Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
@@ -165,8 +169,14 @@ It contains statements that map logical library names to their physical director
 	Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 9: Design Browser window for simulation
+![WhatsApp Image 2024-10-04 at 15 06 51_248b9759](https://github.com/user-attachments/assets/8c46e50e-aef1-4b6f-8ad3-b5cf9fa64992)
+
 
 ## Fig 10: Simulation Waveform Window
+![WhatsApp Image 2024-10-04 at 15 06 51_559a6b26](https://github.com/user-attachments/assets/87d8ed4f-a3f7-4bb5-abde-d079876b90d2)
+
 
 ## Fig 11: Simulation Waveform Window
+![WhatsApp Image 2024-10-04 at 15 06 51_87413b05](https://github.com/user-attachments/assets/863660de-2929-4a78-8dfc-2dc62056f8ee)
+
 
